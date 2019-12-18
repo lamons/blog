@@ -5,7 +5,7 @@
 # Site
 title: Ember Land
 subtitle: ''
-description: ''
+description: “He tests the stone's weight; he finds he can lift in, and the others too. He can fit them together to create a foundation, an embankment, a castle.”
 keywords:
 author: tianshi
 language: zh
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://tian-shi.xyz/
 root: /
 permalink: :year/:title/
 permalink_defaults:
