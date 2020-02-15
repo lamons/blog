@@ -14,5 +14,5 @@ friends:
 [Nick](http://nicktalk.com/)
 [人间指南](https://renjianzhinan.xyz/)
 [博物志](http://bowuzhi.fm/)
+[蔡驍](https://cxcxcx.cx/)
 [螺莉莉](https://roriri.one/)
-[cx](https://cxcxcx.cx/)
